@@ -1,9 +1,7 @@
 print("Dinh Ba Tan Minh")
 print("DBTM")
-a = "10"
-a += 1
-print(a)
 
+b = 10
 
 def check(a):
     a += 1
